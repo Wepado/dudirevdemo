@@ -1,0 +1,25 @@
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\appsettings.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..exe
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..deps.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..runtimeconfig.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..dll
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\bin\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..pdb
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..AssemblyInfoInputs.cache
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..AssemblyInfo.cs
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..csproj.CoreCompileInputs.cache
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets\msbuild.Разработка программного модуля для учета заявок на ремонт оргтехники..Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets\msbuild.build.Разработка программного модуля для учета заявок на ремонт оргтехники..props
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Разработка программного модуля для учета заявок на ремонт оргтехники..props
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Разработка программного модуля для учета заявок на ремонт оргтехники..props
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\scopedcss\bundle\Разработка программного модуля для учета заявок на ремонт оргтехники..styles.css
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..dll
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\refint\Разработка программного модуля для учета заявок на ремонт оргтехники..dll
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..pdb
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\Разработка программного модуля для учета заявок на ремонт оргтехники..genruntimeconfig.cache
+C:\Users\CCU\Desktop\demo dudirev\Разработка программного модуля для учета заявок на ремонт оргтехники\obj\Debug\net8.0\ref\Разработка программного модуля для учета заявок на ремонт оргтехники..dll

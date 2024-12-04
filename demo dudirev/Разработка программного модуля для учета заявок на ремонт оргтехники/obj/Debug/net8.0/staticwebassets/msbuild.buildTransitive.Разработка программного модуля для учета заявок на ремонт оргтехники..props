@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Разработка программного модуля для учета заявок на ремонт оргтехники..props" />
+</Project>

@@ -1,0 +1,2 @@
+Откройте program.cs и запустите его, после используйте create.html orders.html update.html stat.html для взаимодействия.
+данный для аунтификации  login 123 Password 123 
